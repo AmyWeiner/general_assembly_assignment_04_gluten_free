@@ -21,8 +21,8 @@ class Person
 	    end
 	  end
 	rescue
-	  	puts "#{@name} is allergic to #{@allergies} and vomits."
-	  	puts ""
+	  puts "#{@name} is allergic to #{@allergies} and vomits."
+	  puts ""
 	end
   end
 end
